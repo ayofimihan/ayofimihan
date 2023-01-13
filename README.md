@@ -1,3 +1,5 @@
+<img src="https://github.com/fps8k/fps8k/raw/dev/code-gif.gif" />
+
 <h1 align="center">Hi 👋, I'm Champion.</h1>
 <h3 align="center">A software developer self learning software and computer engineering</h3>
 

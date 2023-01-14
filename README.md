@@ -1,5 +1,4 @@
-<img src="https://github.com/ayofimihan/ayofimihan/blob/main/working.gif?raw=true" width="400px" height="400px" margin-left:"auto"
-  margin-right:"auto" />
+<img src="https://github.com/ayofimihan/ayofimihan/blob/main/working.gif?raw=true" width="400px" height="400px" align="center" />
 
 <h1 align="center">Hi 👋, I'm Champion.</h1>
 <h3 align="center">A software developer self learning software and computer engineering</h3>

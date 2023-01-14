@@ -1,4 +1,4 @@
-<img src="https://github.com/fps8k/fps8k/raw/dev/code-gif.gif" />
+<img src="	https://github.com/ayofimihan/ayofimihan/blob/main/working.gif?raw=true" width="400px" height="400px" />
 
 <h1 align="center">Hi 👋, I'm Champion.</h1>
 <h3 align="center">A software developer self learning software and computer engineering</h3>

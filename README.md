@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, i'm Champion..</h1>
 <h3 align="center">A software developer self learning software and computer engineering</h3>
 
-<p align="left"> <a href="https://twitter.com/fimihan0x" target="blank"><img src="https://img.shields.io/twitter/follow/fimihan0x?logo=twitter&style=for-the-badge" alt="fimihan0x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/f1m1han" target="blank"><img src="https://img.shields.io/twitter/follow/f1m1han?logo=twitter&style=for-the-badge" alt="f1m1han" /></a> </p>
 
 - 🔭 I’m currently working on **CJNFT**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fimihan0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fimihan0x" height="30" width="40" /></a>
+<a href="https://twitter.com/f1m1han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="f1m1han" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayofimihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayofimihan" height="30" width="40" /></a>
 </p>
 

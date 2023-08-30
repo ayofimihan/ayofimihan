@@ -1,13 +1,7 @@
-<img src="https://github.com/ayofimihan/ayofimihan/blob/main/working.gif?raw=true" width="400px" height="400px"  />
-
 <h1 align="center">Hi 👋, i'm Champion..</h1>
 <h3 align="center">A software developer self learning software and computer engineering</h3>
 
 <p align="left"> <a href="https://twitter.com/f1m1han" target="blank"><img src="https://img.shields.io/twitter/follow/f1m1han?logo=twitter&style=for-the-badge" alt="f1m1han" /></a> </p>
-
-- 🔭 I’m currently working on **CJNFT**
-
-- 🌱 I’m currently learning **Solidity, ethersJs, Hardhat**
 
 - 📫 How to reach me **cogunsina@gmail.com**
 
